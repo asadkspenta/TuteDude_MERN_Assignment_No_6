@@ -25,3 +25,17 @@
 ### 5. The Styles - public/style.css
 - This file makes the pages look nice
 - It's loaded by all HTML pages
+
+## 6. Screenshots
+
+### Home Page
+![Home Page](./screenshots/ss1.png)
+
+### About Page
+![About Page](./screenshots/ss2.png)
+
+### Contact Page
+![Contact Page](./screenshots/ss4.png)
+
+### 404 Page
+![404 Page](./screenshots/ss4.png)
